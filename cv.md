@@ -5,6 +5,8 @@
 ## Contacts Discord:
 Vadim Matkarimov (@vmatkarimov)
 
+## About me:
+
 I was fond of programming at school, I started studying with the Basic language.
 
 At the moment I manage projects remotely, before that I was engaged in development: game projects in small teams, then I went to freelance, the projects were different. My goal is to bring back forgotten development skills and gain new knowledge through intensive practice. Accidentally found out RS School and immediately entered the course.
