@@ -1,3 +1,5 @@
+![Vadim Matkarimov](https://avatars.githubusercontent.com/u/5332153?v=4)
+
 # Vadim Matkarimov CV
 
 ## Contacts Discord:
