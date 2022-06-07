@@ -30,4 +30,4 @@ I read any documentation in English, practically without a dictionary, I underst
 
 ## Projects:
 
-https://github.com/vmatkarimov/rsschool-cv/tree/gh-pages
+[https://github.com/vmatkarimov/rsschool-cv](https://github.com/vmatkarimov/rsschool-cv)
