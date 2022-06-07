@@ -24,5 +24,4 @@ multiply = function (a, b) {
 Secondary.
 
 ## English:
-
 I read any documentation in English, practically without a dictionary, I understand speech by ear and can even support the conversation a little. I had little experience in Europe (half a year) the main language for communication in the team was English.
